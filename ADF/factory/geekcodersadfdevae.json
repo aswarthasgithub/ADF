@@ -1,0 +1,9 @@
+{
+	"name": "geekcodersadfdevae",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fddc84f3-5bad-4b0f-9028-55043cb6b267",
+		"tenantId": "8b052131-3571-4ca7-8b6d-92d65fa83ff6"
+	}
+}
